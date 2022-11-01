@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\variable\bin\Debug\net6.0\variable.exe
+C:\Users\SundusD\Desktop\Pratikler\variable\bin\Debug\net6.0\variable.deps.json
+C:\Users\SundusD\Desktop\Pratikler\variable\bin\Debug\net6.0\variable.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\variable\bin\Debug\net6.0\variable.dll
+C:\Users\SundusD\Desktop\Pratikler\variable\bin\Debug\net6.0\variable.pdb
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.dll
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\refint\variable.dll
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.pdb
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\variable.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\variable\obj\Debug\net6.0\ref\variable.dll
